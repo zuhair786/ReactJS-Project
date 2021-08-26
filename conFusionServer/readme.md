@@ -1,4 +1,4 @@
-##Node Modules
+##Node_Modules
 To run this, you need to install node modules. That can be done using following commands:
   1. Open Command Propmt, before that make sure you have npm and nodeJS installed on your desktop.
   2. Go to this folder in command prompt.
