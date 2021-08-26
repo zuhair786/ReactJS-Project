@@ -1,3 +1,6 @@
-## Synopsis
-
-This Assignment also makes use of Facebook OAuth Authorization. In order to make it work please setup an App by going to https://developers.facebook.com/apps/ and register your app by following the instructions there and obtain your App ID and App Secret. Then Paste the App ID in public/index.html and both the ID and Secret in config.js.
+##Node Modules
+To run this, you need to install node modules. That can be done using following commands:
+  1. Open Command Propmt, before that make sure you have npm and nodeJS installed on your desktop.
+  2. Go to this folder in command prompt.
+  3. type "npm install".#NOTE:: by entering only this command your all dependecies will automatically installed.
+  4. To save as a dependency."npm install package-name --save".
